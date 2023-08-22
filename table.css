@@ -1,0 +1,15 @@
+table, tr, td, th{
+    border:solid 1px black
+}
+ td{
+    width: 150px;
+    height: 20px;
+}
+th{
+    background-color: palevioletred;
+    height: 40px;
+}
+tr:hover {background-color: rgb(248, 179, 202);}
+table{
+    border-collapse:collapse;
+}
